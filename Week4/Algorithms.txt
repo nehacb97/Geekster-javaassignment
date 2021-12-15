@@ -1,0 +1,24 @@
+//Algorithm to find maximum of 2 numbers
+Step 1. START
+Step 2. Variables n1,n2
+Step 3. IF n1 is greater than n2 
+           print "n1 is largest"
+         else
+           print "n2 is largest"
+Step 4. STOP
+
+//Algorithm to find smallest of 2 numbers
+Step 1. START
+Step 2. Variables n1,n2
+Step 3. IF n1 is less than n2
+           print "n1 is smallest"
+        else
+           print "n2 is smallest"
+Step 4. STOP
+
+
+//Algorithm to find average of given 2 numbers
+Step 1. START
+Step 2. Variables n1,n2,average
+Step 3. Calculate average = ((n1+n2)/2)
+Step 4. STOP
